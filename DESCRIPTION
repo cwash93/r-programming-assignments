@@ -1,0 +1,16 @@
+Package: Washington
+Title: Data Analysis and Visualization
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ciara", "Washington", , "ciaraw@usf.edu", role = c("aut", "cre"))
+Description: This is for Module #10 in R Programming. 
+	Creating an R Package for the Final Project coming down the line.
+Depends:
+    R (>= 3.1.2)
+Imports:
+    ggplot2,
+    dplyr
+License: CC0
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+LazyData: true
